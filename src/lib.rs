@@ -11,3 +11,6 @@ pub use lc_roman_to_integer::*;
 
 pub mod lc_palindrome_number;
 pub use lc_palindrome_number::*;
+
+pub mod lc_longest_common_prefix;
+pub use lc_longest_common_prefix::*;
