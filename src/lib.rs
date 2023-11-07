@@ -14,3 +14,6 @@ pub use lc_palindrome_number::*;
 
 pub mod lc_longest_common_prefix;
 pub use lc_longest_common_prefix::*;
+
+pub mod lc_valid_parentheses;
+pub use lc_valid_parentheses::*;

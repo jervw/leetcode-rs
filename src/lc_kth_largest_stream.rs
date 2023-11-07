@@ -40,4 +40,3 @@ fn test() {
     assert_eq!(k.add(9), 8);
     assert_eq!(k.add(4), 8);
 }
-
